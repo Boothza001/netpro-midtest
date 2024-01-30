@@ -7,7 +7,7 @@ use
   - java Thread
 
   #1
-    - Read file .txt and fill number in file .txt
+    - Read file .txt and fill number in file .txt<br>
     - Sum of number and divide by total number of lines.
     - This program can read only 1 argument, if user enter more this program is exit.
 
